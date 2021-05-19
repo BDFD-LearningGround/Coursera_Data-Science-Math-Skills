@@ -22,4 +22,4 @@ Good luck and we hope you enjoy the course!
 
 ## Course Description
 Total Hours: ~13 Hrs
-![Certificate of Data-Science-Math-Skills](Coursera-Data%20Science%20Math%20Skills.pdf)
+![Certificate](Coursera-Data%20Science%20Math%20Skills.pdf)
