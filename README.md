@@ -19,3 +19,7 @@ Topics include:
 While this course is intended as a general introduction to the math skills needed for data science, it can be considered a prerequisite for learners interested in the course, "Mastering Data Analysis in Excel," which is part of the Excel to MySQL Data Science Specialization.  Learners who master Data Science Math Skills will be fully prepared for success with the more advanced math concepts introduced in "Mastering Data Analysis in Excel." 
 
 Good luck and we hope you enjoy the course!
+
+## Course Description
+Total Hours: ~13 Hrs
+![Certificate of Data-Science-Math-Skills](Coursera-Data%20Science%20Math%20Skills.pdf)
