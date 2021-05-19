@@ -22,4 +22,4 @@ Good luck and we hope you enjoy the course!
 
 ## Course Description
 Total Hours: ~13 Hrs
-![Certificate](https://github.com/bdfd/5.1_Coursera_1C_Data-Science-Math-Skills/blob/main/Certificate_Data_Science_Math_Skills.pdf)
+![Certificate](https://github.com/bdfd/5.1_Coursera_1C_Data-Science-Math-Skills/blob/main/Certificate_Data_Science_Math_Skills.jpg)
