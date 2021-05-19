@@ -5,7 +5,9 @@ Data science courses contain math—no avoiding that! This course is designed to
 Learners who complete this course will master the vocabulary, notation, concepts, and algebra rules that all data scientists must know before moving on to more advanced material.
 
 Topics include:
--Set theory, including Venn diagrams
+- [Demo in Jupyter Notebook](#demo-in-jupyter-notebook)
+
+-Set theory, including Venn diagrams                                                                                    
 -Properties of the real number line
 -Interval notation and algebra with inequalities
 -Uses for summation and Sigma notation
