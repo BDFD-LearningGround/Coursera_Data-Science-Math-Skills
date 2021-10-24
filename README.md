@@ -20,6 +20,6 @@ While this course is intended as a general introduction to the math skills neede
 
 Good luck and we hope you enjoy the course!
 
-## Course Description
+## Course Certificate
 Total Hours: ~13 Hrs
 ![Certificate](5.1_Coursera_1C_Data-Science-Math-Skills.jpg)
