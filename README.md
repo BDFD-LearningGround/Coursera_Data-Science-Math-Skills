@@ -1,3 +1,4 @@
+<a href="https://github.com/bdfd"><img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/github.svg" alt="bdfd" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/BDFD-LearningGround/Data-Science-Math-Skills_Coursera_.svg?cache=remove>)
 ![GitHub top language](<https://img.shields.io/github/languages/top/BDFD-LearningGround/Data-Science-Math-Skills_Coursera_?style=flat>)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Data-Science-Math-Skills_Coursera_?style=flat)
@@ -20,7 +21,6 @@ Data science courses contain math—no avoiding that! This course is designed to
 
 ## Course Certificate
 Total Hours: ~13 Hrs
-![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/5.0-Data%20Science/Course-Data%20Science%20Math%20Skills/Course-Data%20Science%20Math%20Skills.jpeg)
 
 <div align="center">
 
