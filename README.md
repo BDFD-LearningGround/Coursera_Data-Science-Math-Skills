@@ -21,3 +21,13 @@ Data science courses contain math—no avoiding that! This course is designed to
 ## Course Certificate
 Total Hours: ~13 Hrs
 ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/5.0-Data%20Science/Course-Data%20Science%20Math%20Skills/Course-Data%20Science%20Math%20Skills.jpeg)
+
+<div align="center">
+
+### Thanks For Watch This Repositories!
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+### Feel Free To Fork And Report If You Find Any Issue :)
+
+</div>
