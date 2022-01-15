@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Data-Science-Math-Skills_Coursera_?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Done.svg" alt="bdfd" />
 
-# Data Science Math Skills(Coursera)
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Data Science Math Skills(Coursera)
 
 ## About This Course/Certificate
 
@@ -30,4 +30,6 @@ Total Hours: ~13 Hrs
 
 ### Feel Free To Fork And Report If You Find Any Issue :)
 
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/bdfd?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd) 
 </div>
